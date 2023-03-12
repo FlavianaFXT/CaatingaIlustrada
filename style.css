@@ -1,18 +1,109 @@
 h1{
-    text-align: center;
-};
+font-size: 100px;
+font-family:'Courier New', Courier, monospace;
+text-align: center;
+color: whitesmoke;
+margin-bottom: 0;
+}
+
+.cabeçalho{
+    font-size: 20px;
+    text-align:left;
+    margin-left:100px;
+    color: azure;
+    margin-top: 10px;
+    margin-bottom: 50px;
+}
 
 h2{
+    font-size: 35px;
     text-align: center;
-};
+    margin-top: 10px;
+    margin-bottom: 5px;
+    margin-left: 90px;
+    padding: 13px;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    font-weight: bold;
+    color: rgb(13, 11, 165);
+    background-color: greenyellow;
+    max-width: 300px;
+    border-radius: 35%;
+}
 
 img{
     max-width: 300px;
-    max-height: 200px;
-};
+    max-height: 300px;
+    align-items: center;
+    margin-left:80px;
+    margin-right: 10px;
+    padding: 15px;
+    background-color: yellowgreen;
+    border-radius: 30px;
+    }
 
-.card{
+details{
+    background-color: yellowgreen;
+    border-radius: 30px;
+    max-width: 300px;
+    padding: 20px;
+    margin-left: 90px;
+    margin-bottom: 50px;
+    color: rgb(13, 11, 165);
+    }
+
+details p{
+    line-height: 1.5;
+}
+
+div{
     display: inline-block;
-};
+    margin-right: 15px;
+    margin-left: 0;
+}
 
+body{
+    background-image: url(https://www.letrasambientais.org.br/img/posts/mR01ZE.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 
+footer{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20 px;
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 40px;
+    padding: 15px;
+    font-weight: bold;
+    color: black;
+    background-color: aliceblue;
+}
+
+footer h3{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20 px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    
+}
+
+footer img{
+    margin: 5px;
+    padding: 5px;
+    border-radius: 0;
+}
+
+#facebook{
+    background-color: #3b5998;
+}
+
+#twitter{
+    background-color: #00acee;
+}
+
+#instagram{
+    width: 80px;
+    height: 80px;
+    background-color: aliceblue;
+}
