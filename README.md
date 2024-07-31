@@ -99,8 +99,7 @@ A Quarta página, abre ao clicar no nome `Lugares`, tazendo pontos turísicos si
 ### Estrutura de Pastas
 
 
-
-----------------
+![image](https://github.com/user-attachments/assets/49931b1f-2df1-4eb7-974d-2e29efdd7ca4)
 
 
 
